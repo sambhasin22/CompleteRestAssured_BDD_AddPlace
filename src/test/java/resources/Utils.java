@@ -27,6 +27,7 @@ public class Utils {
 	public RequestSpecification requestSpecification() {
 
 		PrintStream log = null;
+		System.out.println("For Testing Purpose");
 
 		if (requestSpeBuilder == null) {
 
